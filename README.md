@@ -1,5 +1,4 @@
-# <center> Учебный проект программы Data Science платформы [Skillfactory](http://skillfactory.ru). </center>
-# <center> (Сегментация клиентов онлайн магазина подарков). </center>
+# <center> Учебный проект программы Data Science платформы [Skillfactory](http://skillfactory.ru) (Сегментация клиентов онлайн магазина подарков). </center>
 
 ## Оглавление  
 [1. Описание учебного проекта](https://github.com/Cherant1976/SF_Customer_Segmentation_Project#Описание-учебного-проекта)   
