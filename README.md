@@ -4,8 +4,8 @@
 [1. Описание учебного проекта](https://github.com/Cherant1976/SF_Customer_Segmentation_Project#Описание-учебного-проекта)   
 [2. Краткая информация о данных](https://github.com/Cherant1976/SF_Customer_Segmentation_Project#Краткая-информация-о-данных)  
 [3. Этапы выполнения заданий учебного проекта](https://github.com/Cherant1976/SF_Customer_Segmentation_Project#Этапы-выполнения-заданий-учебного-проекта)  
-[4. Используемые библиотеки python](https://github.com/Cherant1976/SF_Customer_Segmentation_Project#Используемые-библиотеки-python)
-[5. Выводы и заключения](https://github.com/Cherant1976/SF_Customer_Segmentation_Project#Выводы-и-заключения) 
+[4. Используемые библиотеки python](https://github.com/Cherant1976/SF_Customer_Segmentation_Project#Используемые-библиотеки-python)  
+[5. Выводы и заключения](https://github.com/Cherant1976/SF_Customer_Segmentation_Project#Выводы-и-заключения)  
 [6. Примечание к графикам plotly](https://github.com/Cherant1976/SF_Customer_Segmentation_Project#Примечание-к-графикам-plotly) 
 
 ### Описание учебного проекта    
