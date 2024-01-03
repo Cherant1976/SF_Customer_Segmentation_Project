@@ -71,7 +71,7 @@ import re
 Если у вас не получится просмотреть файлы в папке, для просмотра в  браузере используйте ссылки ниже:
 - [**ГРАФИКИ пункт 2.3**](https://htmlpreview.github.io/?https://github.com/Cherant1976/SF_Customer_Segmentation_Project/blob/master/plotly/boxplot_rfm.html)
 - [**ГРАФИКИ пункт 3.2.1**](https://htmlpreview.github.io/?https://github.com/Cherant1976/SF_Customer_Segmentation_Project/blob/master/plotly/scatter_3d_rfm.html)
-- [**ГРАФИКИ пункт 3.2.2**](https://htmlpreview.github.io/?https://github.com/Cherant1976/SF_Customer_Segmentation_Project/blob/master/plotly/bar_salary_move.html)
+- [**ГРАФИКИ пункт 3.2.2**](https://htmlpreview.github.io/?https://github.com/Cherant1976/SF_Customer_Segmentation_Project/blob/master/plotly/cluster_profile_rfm.html)
 
 :arrow_up:[к оглавлению](https://github.com/Cherant1976/SF_Customer_Segmentation_Project#Оглавление)
 
