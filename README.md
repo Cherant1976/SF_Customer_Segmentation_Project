@@ -67,7 +67,7 @@ import re
 ---
 ### Примечание к графикам **plotly**:  
 Графики код для которых написан с использованием библиотеки **plotly** могут отображаться некорректно. Просмотр указанных графиков доступен в браузере, *html* файлы для этого находятся в папке [**plotly**](https://github.com/Cherant1976/SF_Customer_Segmentation_Project/tree/master/plotly)
-Ссылки также доступны под соответсвующим кодом в файле (https://github.com/Cherant1976/SF_Customer_Segmentation_Project/blob/master/PROJECT_6__Сегментация_клиентов_онлайн_магазина_Черников.ipynb)
+Ссылки также доступны под соответсвующим кодом в файле [**PROJECT_6__Сегментация_клиентов_онлайн_магазина_Черников.ipynb**]https://github.com/Cherant1976/SF_Customer_Segmentation_Project/blob/master/PROJECT_6__Сегментация_клиентов_онлайн_магазина_Черников.ipynb)
 
 Если у вас не получится просмотреть файлы в папке, для просмотра в  браузере используйте ссылки ниже:
 - [**ГРАФИКИ пункт 2.3**](https://htmlpreview.github.io/?https://github.com/Cherant1976/SF_Customer_Segmentation_Project/blob/master/plotly/boxplot_rfm.html)
